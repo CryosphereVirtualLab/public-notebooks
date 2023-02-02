@@ -1,10 +1,8 @@
-_Note: The checklist will be edited by the CVL team. If you want to add any description use the place holder in the end.
+__IMPORTANT:__ _Check that none of your commits has hard-coded credentials (user, password)! Otherwise, don't open a pull request and get in touch with us first._
+
+_INFO: The checklist below will be edited by the CVL team. If you want to add any description use the place holder in the end.
 To update the pull request just commit to the related branch. There is no need to delete the pull request and reopen a new one._
 # CVL submission criteria
-
-## GitHub
-- [x] Pull request sent
-- [ ] Merged
 
 ## Structure
 - [ ] Introduction
