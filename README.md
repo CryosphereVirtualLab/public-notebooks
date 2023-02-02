@@ -1,5 +1,5 @@
 # CVL Jupyter Notebooks
-EDIT TEST
+
 This is a collection of public jupyter notebooks showcasing usage of some of the components of Cryosphere Virtual Lab.
 
 You may want to look at:
