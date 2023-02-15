@@ -1,6 +1,3 @@
 .ipynb_checkpoints
-__pycache_
+__pycache__
 .env
-*.png
-figures
-search_results
