@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-__pycache_
 .env
 *.png
 figures
