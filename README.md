@@ -8,4 +8,4 @@ You may want to look at:
 * Basic illustration how to obtain and process data from CVL data portal is shown in [sample notebook](docs/cvl_get-started.ipynb)
 * A collection of scientific [use cases](https://github.com/CryosphereVirtualLab/cvl_science_use_cases)
 * Notebook explaining interaction with [CVL 3D Viz](https://github.com/CryosphereVirtualLab/cvl-3d-viz/blob/master/notebooks/Examples.ipynb)
-* How to set up an SSH connection between local environment and PTEP virtual machine [link](docs/how_to_ssh_vpn.md]
+* How to set up an SSH connection between local environment and PTEP virtual machine [link](docs/how_to_ssh_vpn.md)
